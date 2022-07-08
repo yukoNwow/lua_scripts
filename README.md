@@ -1,22 +1,32 @@
 # lua_scripts
+
 lua_scripts for AzerothCore
 
+## Description
+
+lua_scripts for AzerothCore 
+Scripts for the server, without rebilding
+
+List:
+1. welcometoserver.lua - announcement for the player when logging in to the server
 
 ## Important notes
 
 
 
 ## Requirements
-
+https://elunaluaengine.github.io/index.html - wiki eluna.
+https://github.com/azerothcore/mod-eluna - An Eluna module for AzerothCore.
 
 ## How to install
 
-### 1) Simply place the script under the `lua_scripts` folder of your AzerothCore build folder.
+1) Simply place the script under the `lua_scripts` folder of your AzerothCore build folder.
 
 
 
 ### (Optional) Edit script configuration
 
+The settings are in the script itself
 
 
 
