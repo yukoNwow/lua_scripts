@@ -10,7 +10,7 @@ Scripts for the server, without rebilding
 List:
 1. `welcometoserver.lua` - announcement for the player when logging in to the server
 2. `reload_eluna.lua` - reload eluna, without restarting the server. `GMlevel = 3`. say command `.reluna`
-
+3. `level_up_rewards.lua` - rewards level up, send mailbox from server, flexible configuration
 ## Update
 
 Almost every day
